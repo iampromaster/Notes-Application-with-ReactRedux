@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notes-Application-with-ReactRedux/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Notes-Application-with-ReactRedux/static/js/main.a999f249.chunk.js",
+    "main.js.map": "/Notes-Application-with-ReactRedux/static/js/main.a999f249.chunk.js.map",
+    "runtime-main.js": "/Notes-Application-with-ReactRedux/static/js/runtime-main.23305751.js",
+    "runtime-main.js.map": "/Notes-Application-with-ReactRedux/static/js/runtime-main.23305751.js.map",
+    "static/js/2.490289f3.chunk.js": "/Notes-Application-with-ReactRedux/static/js/2.490289f3.chunk.js",
+    "static/js/2.490289f3.chunk.js.map": "/Notes-Application-with-ReactRedux/static/js/2.490289f3.chunk.js.map",
+    "static/js/3.6cf7e291.chunk.js": "/Notes-Application-with-ReactRedux/static/js/3.6cf7e291.chunk.js",
+    "static/js/3.6cf7e291.chunk.js.map": "/Notes-Application-with-ReactRedux/static/js/3.6cf7e291.chunk.js.map",
+    "index.html": "/Notes-Application-with-ReactRedux/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Notes-Application-with-ReactRedux/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.490289f3.chunk.js.LICENSE.txt": "/Notes-Application-with-ReactRedux/static/js/2.490289f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23305751.js",
+    "static/js/2.490289f3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a999f249.chunk.js"
+  ]
+}
